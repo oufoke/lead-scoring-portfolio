@@ -15,7 +15,7 @@ Les équipes commerciales B2B perdent jusqu'à **40% de leur temps** à traiter 
 2.  **Expliquer** les raisons du score grâce à l'IA explicable (XAI).
 3.  **Guider** l'action commerciale (Appel immédiat vs Nurturing).
 
-👉 **[Testez l'application en live ici]([LIEN_DE_VOTRE_APP])**
+👉 **[Testez l'application en live ici]([[LIEN_DE_VOTRE_APP]](https://lead-scoring-portofolio-ofk.streamlit.app/))**
 
 ---
 
