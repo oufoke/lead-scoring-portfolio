@@ -4,8 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
 
-`![Demo de l'application](screens1.png)`
-`![Demo de l'application](screens2.png)`
+![Demo de l'application](screens1.png)
+![Demo de l'application](screens2.png)
 
 ## 📋 Contexte & Problème Business
 Les équipes commerciales B2B perdent jusqu'à **40% de leur temps** à traiter des prospects froids ou mal qualifiés. Le pilotage "au feeling" entraîne une perte d'efficacité et un coût d'acquisition client (CAC) élevé.
