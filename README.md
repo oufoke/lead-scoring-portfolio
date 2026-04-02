@@ -68,3 +68,10 @@ pip install -r requirements.txt
 
 # 3. Lancer l'application
 streamlit run app.py
+```
+## 👤 Auteur
+
+**Oumar** - *Data Product Manager*
+> J'aide les décideurs à transformer leurs données en outils de pilotage stratégique.
+
+[LinkedIn](https://www.linkedin.com/in/oumarfodek/)
