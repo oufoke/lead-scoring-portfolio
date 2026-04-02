@@ -1,4 +1,4 @@
-# 🚀 B2B Predictive Lead Scoring | Moteur de Scoring Commercial par l'IA
+# 🚀 B2B Predictive Lead Scoring | Moteur de Scoring Commercial par l'IA 🟢 Live App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lead-scoring-portofolio-ofk.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
