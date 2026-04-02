@@ -1,5 +1,8 @@
 # 🚀 B2B Predictive Lead Scoring | Moteur de Scoring Commercial par l'IA 🟢 Live App
 
+> *🇺🇸 An Explainable AI (XAI) scoring engine designed to prioritize B2B sales leads and reduce CAC.*
+> *🇫🇷 Un moteur de scoring prédictif basé sur l'IA explicable (SHAP) pour prioriser les prospects commerciaux.*
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lead-scoring-portofolio-ofk.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
