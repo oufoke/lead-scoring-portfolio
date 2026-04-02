@@ -1,4 +1,4 @@
-# 🚀 Smart B2B Lead Scoring : Assistant de Vente par IA
+# 🚀 B2B Predictive Lead Scoring | Moteur de Scoring Commercial par l'IA
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([LIEN_DE_VOTRE_APP])
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
